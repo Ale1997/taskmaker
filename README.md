@@ -1,6 +1,6 @@
 # taskmaker
 
-A new Flutter project.
+Projeto simples de criação de tarefas.
 
 ## Getting Started
 
